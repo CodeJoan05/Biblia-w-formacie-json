@@ -46,6 +46,10 @@
 * Textus Receptus (1550/1884)
 * Tekst Bizantyjski (2013)
 
+## Hebrajskie:
+
+* Westminster Leningrad Codex
+
 ## Informacje
 
 <p>Pliki z przekładami Biblii pochodzą z:</p>
