@@ -60,3 +60,7 @@
 <p>Część polskich przekładów Biblii zawiera zawartość ze strony:</p>
 
 * https://web.rbiblia.toborek.info/
+
+<p>Plik z Biblią Gdańską (1632) został utworzony z plików tekstowych, które pochodzą z:</p>
+
+* https://github.com/piotrskurzynski/biblia/
